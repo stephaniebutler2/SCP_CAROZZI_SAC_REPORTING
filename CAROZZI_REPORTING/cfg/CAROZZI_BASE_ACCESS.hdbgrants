@@ -1,0 +1,10 @@
+{
+	"hdi_CAROZZI_BASE": {
+		"object_owner": {
+			"container_roles": ["CAROZZI_BASE_ACCESS#"]
+		},
+		"application_user": {
+			"container_roles": ["CAROZZI_BASE_ACCESS"]
+		}
+	}
+}

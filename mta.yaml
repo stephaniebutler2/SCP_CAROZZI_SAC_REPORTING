@@ -1,0 +1,41 @@
+_schema-version: "2.1"
+ID: SCP_CAROZZI_SAC_REPORTING
+version: 0.0.1
+modules:
+- name: CAROZZI_REPORTING
+  type: hdb
+  path: CAROZZI_REPORTING
+  requires:
+  - name: hdi_CAROZZI_REPORTING
+    properties:
+      TARGET_CONTAINER: ~{hdi-container-name}
+  - name: cross-container-service-1
+    group: SERVICE_REPLACEMENTS
+    properties:
+      key: ServiceName_1
+      service: ~{the-service-name}
+  - name: cross-container-service-2
+    group: SERVICE_REPLACEMENTS
+    properties:
+      key: ServiceName_2
+      service: ~{the-service-name}
+resources:
+- name: hdi_CAROZZI_REPORTING
+  type: com.sap.xs.hdi-container
+  parameters:
+    config:
+      schema: CAROZZI_REPORTING
+  properties:
+    hdi-container-name: ${service-name}
+- name: cross-container-service-1
+  type: org.cloudfoundry.existing-service
+  parameters:
+    service-name: hdi_CAROZZI_BASE
+  properties:
+    the-service-name: ${service-name}
+- name: cross-container-service-2
+  type: org.cloudfoundry.existing-service
+  parameters:
+    service-name: classic_schema_access
+  properties:
+    the-service-name: ${service-name}

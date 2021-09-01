@@ -1,0 +1,24 @@
+{
+    "classic_schema_access": {
+        "object_owner": {
+            "schema_privileges": [
+                {
+                    "reference": "_SYS_BI",
+                    "privileges_with_grant_option": [
+                        "SELECT"
+                    ]
+                }
+            ],
+            "application_user": {
+                "schema_privileges": [
+                    {
+                        "reference": "_SYS_BI",
+                        "privileges": [
+                            "SELECT"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
