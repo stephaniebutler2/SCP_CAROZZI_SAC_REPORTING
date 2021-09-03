@@ -1,0 +1,350 @@
+{
+  "AUSP": {
+    "target": {
+      "object": "AUSP",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "CSKU": {
+    "target": {
+      "object": "CSKU",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "KNA1": {
+    "target": {
+      "object": "KNA1",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "KNB1": {
+    "target": {
+      "object": "KNB1",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "KNVH": {
+    "target": {
+      "object": "KNVH",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "KNVV": {
+    "target": {
+      "object": "KNVV",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "MAKT": {
+    "target": {
+      "object": "MAKT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "MARA": {
+    "target": {
+      "object": "MARA",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "PA0001": {
+    "target": {
+      "object": "PA0001",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "SETHEADERT": {
+    "target": {
+      "object": "SETHEADERT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "SETLEAF": {
+    "target": {
+      "object": "SETLEAF",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "SETNODE": {
+    "target": {
+      "object": "SETNODE",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "T005F": {
+    "target": {
+      "object": "T005F",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "T005H": {
+    "target": {
+      "object": "T005H",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "T005T": {
+    "target": {
+      "object": "T005T",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "T005U": {
+    "target": {
+      "object": "T005U",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "T023T": {
+    "target": {
+      "object": "T023T",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "T25A5": {
+    "target": {
+      "object": "T25A5",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "TKA01": {
+    "target": {
+      "object": "TKA01",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "TVKBT": {
+    "target": {
+      "object": "TVKBT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "TVKOT": {
+    "target": {
+      "object": "TVKOT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "Z1BOUNINEG": {
+    "target": {
+      "object": "Z1BOUNINEG",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "Z1CADSUP": {
+    "target": {
+      "object": "Z1CADSUP",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "Z1CASCADA2": {
+    "target": {
+      "object": "Z1CASCADA2",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "Z1CLASIFCLIE": {
+    "target": {
+      "object": "Z1CLASIFCLIE",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "Z1RUBROS": {
+    "target": {
+      "object": "Z1RUBROS",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "Z1VCLIENTEXREMO": {
+    "target": {
+      "object": "Z1VCLIENTEXREMO",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "ZBWCT": {
+    "target": {
+      "object": "ZBWCT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "ZBWGA_CT": {
+    "target": {
+      "object": "ZBWGA_CT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_AUSP": {
+    "target": {
+      "object": "VT_AUSP",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_CSKU": {
+    "target": {
+      "object": "VT_CSKU",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_KNA1": {
+    "target": {
+      "object": "VT_KNA1",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_KNB1": {
+    "target": {
+      "object": "VT_KNB1",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_KNVH": {
+    "target": {
+      "object": "VT_KNVH",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_KNVV": {
+    "target": {
+      "object": "VT_KNVV",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_MAKT": {
+    "target": {
+      "object": "VT_MAKT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_MARA": {
+    "target": {
+      "object": "VT_MARA",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_PA0001": {
+    "target": {
+      "object": "VT_PA0001",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_SETHEADERT": {
+    "target": {
+      "object": "VT_SETHEADERT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_SETLEAF": {
+    "target": {
+      "object": "VT_SETLEAF",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_SETNODE": {
+    "target": {
+      "object": "VT_SETNODE",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_T005F": {
+    "target": {
+      "object": "VT_T005F",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_T005H": {
+    "target": {
+      "object": "VT_T005H",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_T005T": {
+    "target": {
+      "object": "VT_T005T",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_T005U": {
+    "target": {
+      "object": "VT_T005U",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_T023T": {
+    "target": {
+      "object": "VT_T023T",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_T25A5": {
+    "target": {
+      "object": "VT_T25A5",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_TKA01": {
+    "target": {
+      "object": "VT_TKA01",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_TVKBT": {
+    "target": {
+      "object": "VT_TVKBT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_TVKOT": {
+    "target": {
+      "object": "VT_TVKOT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_Z1BOUNINEG": {
+    "target": {
+      "object": "VT_Z1BOUNINEG",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_Z1CADSUP": {
+    "target": {
+      "object": "VT_Z1CADSUP",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_Z1CASCADA2": {
+    "target": {
+      "object": "VT_Z1CASCADA2",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_Z1CLASIFCLIE": {
+    "target": {
+      "object": "VT_Z1CLASIFCLIE",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_Z1RUBROS": {
+    "target": {
+      "object": "VT_Z1RUBROS",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_Z1VCLIENTEXREMO": {
+    "target": {
+      "object": "VT_Z1VCLIENTEXREMO",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_ZBWCT": {
+    "target": {
+      "object": "VT_ZBWCT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  },
+  "VT_ZBWGA_CT": {
+    "target": {
+      "object": "VT_ZBWGA_CT",
+      "schema": "SCP_CAROZZI_SAC"
+    }
+  }
+}

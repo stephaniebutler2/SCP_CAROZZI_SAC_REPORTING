@@ -1,0 +1,176 @@
+{
+  "SCP_CAROZZI_SAC.CASCADA::MODELO_FG_VZ1CASCADA1_01": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.CASCADA::MODELO_FG_VZ1CASCADA1_01",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.CASCADA::Z1CASCADA2_01": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.CASCADA::Z1CASCADA2_01",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CADENA_SUBCADENA": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CADENA_SUBCADENA",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CANALES_SETLEAF_AUX": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CANALES_SETLEAF_AUX",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CANAL_COMERCIAL": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CANAL_COMERCIAL",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CLIENTE": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CLIENTE",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CLIENTE_CECO_SETLEAF_AUX": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CLIENTE_CECO_SETLEAF_AUX",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CLIENTE_CLASIF_ESPECIAL": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CLIENTE_CLASIF_ESPECIAL",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CLIENTE_SETLEAF_AUX": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CLIENTE_SETLEAF_AUX",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_COMUNA": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_COMUNA",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CUENTA": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_CUENTA",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_DIVISION_COMERCIAL": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_DIVISION_COMERCIAL",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_GRUPO_MATERIAL": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_GRUPO_MATERIAL",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_JER_CLASES_DE_COSTOS": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_JER_CLASES_DE_COSTOS",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_MATERIAL": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_MATERIAL",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_OFICINA_VENTA": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_OFICINA_VENTA",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_ORGANIZACION_VENTA": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_ORGANIZACION_VENTA",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_PAIS": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_PAIS",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_PROVINCIA": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_PROVINCIA",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_REGION": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_REGION",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_SETNODE": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_SETNODE",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_SOCIEDAD_CO": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_SOCIEDAD_CO",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::DIM_VENDEDOR": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::DIM_VENDEDOR",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIAS": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIAS",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIAS_V2_CANALCOMERCIAL": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIAS_V2_CANALCOMERCIAL",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIA_CANAL_COMERCIAL": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIA_CANAL_COMERCIAL",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIA_CLIENTE": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIA_CLIENTE",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIA_CLIENTE_2": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIA_CLIENTE_2",
+      "schema": "CAROZZI_BASE"
+    }
+  },
+  "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIA_PAISES": {
+    "target": {
+      "object": "SCP_CAROZZI_SAC.ObjetosComunes::JERARQUIA_PAISES",
+      "schema": "CAROZZI_BASE"
+    }
+  }
+}
